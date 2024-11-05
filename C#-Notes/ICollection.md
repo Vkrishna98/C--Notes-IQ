@@ -1,4 +1,5 @@
-## ICollection is an interface in C# that represents a collection of items. It’s part of the .NET collection hierarchy and provides a basic contract for working with collections that support basic operations, like adding, removing, counting items, and checking if an item exists.
+## ICollection 
+- ICollection is an interface in C# that represents a collection of items. It’s part of the .NET collection hierarchy and provides a basic contract for working with collections that support basic operations, like adding, removing, counting items, and checking if an item exists.
 
 ### Why Use ICollection?
 
